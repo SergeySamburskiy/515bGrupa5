@@ -31,7 +31,7 @@ int main(void) {
 	if (i == 1) {
 		band(str1, str2, str3);
 	}
-
+	 
 	return 0;
 }
 
