@@ -20,7 +20,7 @@ int main(void) {
 	scanf("%i", &n);
 
 	if (n == 1)
-	{
+	{ 
 		show(str1, str2, str3);
 	}
 	printf("Хотите найти строку  ? 1-да 0-нет\n");
